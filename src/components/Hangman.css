@@ -1,0 +1,6 @@
+/*Custom CSS for Hangman component*/
+span.red {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
